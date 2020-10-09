@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-<!--
-**tiberiushunter/tiberiushunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Sam Welek, a Software Developer from the UK.
 
-Here are some ideas to get you started:
+##### 🔭 I’m currently working on
+Building up my Home Assistant config, contributing where I can to open source projects, and writing up posts for my site to help the fellow Devs out there
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### 📫 Feel free to reach out or check out some of my work
+[![GitHub][github-shield]][github-url] [![LinkedIn][linkedin-shield]][linkedin-url] [![Twitter][twitter-shield]][twitter-url] [![Twitter][site-shield]][site-url] 
+
+![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiberiushunter&show_icons=true)
+
+<!-- Contact Specific -->
+[github-shield]: https://img.shields.io/badge/-GitHub-black.svg?style=for-the-badge&logo=github&colorB=555
+[github-url]: https://github.com/tiberiushunter
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/sam-welek
+
+[twitter-shield]: https://img.shields.io/badge/-Twitter-black.svg?style=for-the-badge&logo=twitter&colorB=555&logoColor=white
+[twitter-url]: https://twitter.com/samwelek
+
+[site-shield]: https://img.shields.io/badge/-Samwelek.co.uk-black.svg?style=for-the-badge&logo=jekyll&colorB=555&logoColor=white
+[site-url]: https://samwelek.co.uk
