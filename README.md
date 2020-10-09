@@ -8,7 +8,7 @@ Building up my Home Assistant config, contributing where I can to open source pr
 ##### 📫 Feel free to reach out or check out some of my work
 [![GitHub][github-shield]][github-url] [![LinkedIn][linkedin-shield]][linkedin-url] [![Twitter][twitter-shield]][twitter-url] [![Twitter][site-shield]][site-url] 
 
-![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiberiushunter&show_icons=true)
+![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiberiushunter&show_icons=true&theme=vision-friendly-dark)
 
 <!-- Contact Specific -->
 [github-shield]: https://img.shields.io/badge/-GitHub-black.svg?style=for-the-badge&logo=github&colorB=555
