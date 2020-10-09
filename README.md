@@ -10,7 +10,8 @@ Building up my Home Assistant config, contributing where I can to open source pr
 <div style="display:flex;flex-direction:row;justify-content:space-around">
 <div style="display:flex;flex-direction:column;">
 
-[![GitHub][github-shield]][github-url] [![LinkedIn][linkedin-shield]][linkedin-url] [![Twitter][twitter-shield]][twitter-url] [![Twitter][site-shield]][site-url] 
+[![LinkedIn][linkedin-shield]][linkedin-url] [![Twitter][twitter-shield]][twitter-url]
+[![Personal Website][site-shield]][site-url] [![GitHub][github-shield]][github-url] 
 
 </div>
 <div style="display:flex; flex-direction:column;">
