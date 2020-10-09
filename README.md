@@ -7,19 +7,10 @@ Building up my Home Assistant config, contributing where I can to open source pr
 
 #### 📫 Feel free to reach out or check out some of my work
 
-<div style="display:flex;flex-direction:row;justify-content:space-around">
-<div style="display:flex;flex-direction:column;">
+[![LinkedIn][linkedin-shield]][linkedin-url] [![Twitter][twitter-shield]][twitter-url] [![GitHub][github-shield]][github-url] [![Personal Website][site-shield]][site-url]
 
-[![LinkedIn][linkedin-shield]][linkedin-url] [![Twitter][twitter-shield]][twitter-url]
-[![Personal Website][site-shield]][site-url] [![GitHub][github-shield]][github-url] 
-
-</div>
-<div style="display:flex; flex-direction:column;">
 
 ![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiberiushunter&show_icons=true&theme=vision-friendly-dark)
-
-</div>
-</div>
 
 <!-- Contact Specific -->
 [github-shield]: https://img.shields.io/badge/-GitHub-black.svg?style=for-the-badge&logo=github&colorB=555
