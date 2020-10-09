@@ -1,14 +1,12 @@
-## Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+### Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-I'm Sam Welek and I'm a Software Developer from the UK. I'm currently employed at Fujitsu working with a range of technologies new and old.
+I'm Sam Welek and I'm a Software Developer from the UK. I'm currently employed at Fujitsu working with a range of technologies both new and old.
 
 #### 🔭 I’m currently working on
 Building up my Home Assistant config, contributing where I can to open source projects, and writing up posts for my site to help the fellow Devs out there.
 
 #### 📫 Feel free to reach out or check out some of my work
-
 [![LinkedIn][linkedin-shield]][linkedin-url] [![Twitter][twitter-shield]][twitter-url] [![GitHub][github-shield]][github-url] [![Personal Website][site-shield]][site-url]
-
 
 ![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiberiushunter&show_icons=true&theme=vision-friendly-dark)
 
