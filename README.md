@@ -8,8 +8,8 @@ Building up my Home Assistant config, contributing where I can to open source pr
 #### 📫 Feel free to reach out or check out some of my work
 [![LinkedIn][linkedin-shield]][linkedin-url] [![Twitter][twitter-shield]][twitter-url] [![GitHub][github-shield]][github-url] [![Personal Website][site-shield]][site-url]
 
-#### ☕ If something I've made as helped you out and you'd like to say thanks <a href="https://www.buymeacoffee.com/tiberiushunter" target="_blank">
-<img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+#### ☕ If something I've made as helped you out and you'd like to say thanks 
+<a href="https://www.buymeacoffee.com/tiberiushunter" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 ![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiberiushunter&show_icons=true&theme=vision-friendly-dark)
 
