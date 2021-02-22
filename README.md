@@ -1,6 +1,6 @@
 ### Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-I'm Sam Welek, a Software Developer from the UK. I'm currently employed at Fujitsu working with a range of tools and technologies day to day and also enjoy playing around with a few things in my spare time, feel free to check out some of my repos and say hi!
+I'm Sam Welek, a Software Developer from the UK. I enjoy playing around with a few things in my spare time, feel free to check out some of my repos and say hi!
 
 #### 🔭 I’m currently working on
 Building up my Home Assistant config, completing my backlog of Advent of Code solutions from previous years, contributing where I can to open source projects, and writing up posts for my site to help the fellow Devs out there.
